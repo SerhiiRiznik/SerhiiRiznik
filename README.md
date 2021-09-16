@@ -1,5 +1,6 @@
-### Hi there 👋
+###  👋Добро пожаловать в мой профиль! Меня зовут Сергей, мне 26 и я frontend-разработчик.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiRiznik)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiRiznik&layout=compact)](https://github.com/SerhiiRiznik/github-readme-stats)
 
 <!--
 **SerhiiRiznik/SerhiiRiznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
